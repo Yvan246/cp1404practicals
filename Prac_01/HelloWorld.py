@@ -1,8 +1,8 @@
 """
 Basic Kivy test code
 If this works, it will produce a GUI window with "hello world" in the middle
-and you know you have set everything up correctly.
-It also prints the Python version in the run output (may be mixed in with Kivy output)
+And you know you have set everything up correctly.
+It also prints the Python version in the run output ( maybe mixed in with Kivy output)
 The Python version should be 3.x (not 2.x).
 """
 
